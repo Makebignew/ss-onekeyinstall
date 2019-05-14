@@ -230,7 +230,7 @@ pre_install(){
 download_files(){
     cd ${cur_dir}
     if is_64bit; then
-        if ! wget --no-check-certificate -c https://dl.lamp.sh/shadowsocks/shadowsocks-server-linux64-1.2.2.gz; then
+        if ! wget --no-check-certificate -c https://raw.githubusercontent.com/wjk199511140034/ss-onekeyinstall/master/ss-go/shadowsocks-server-linux64-1.2.2.gz; then
             echo -e "[${red}Error${plain}] Failed to download shadowsocks-server-linux64-1.2.2.gz"
             exit 1
         fi
@@ -241,7 +241,7 @@ download_files(){
         fi
         mv -f shadowsocks-server-linux64-1.2.2 /usr/bin/shadowsocks-server
     else
-        if ! wget --no-check-certificate -c https://dl.lamp.sh/shadowsocks/shadowsocks-server-linux32-1.2.2.gz; then
+        if ! wget --no-check-certificate -c https://raw.githubusercontent.com/wjk199511140034/ss-onekeyinstall/master/ss-go/shadowsocks-server-linux32-1.2.2.gz; then
             echo -e "[${red}Error${plain}] Failed to download shadowsocks-server-linux32-1.2.2.gz"
             exit 1
         fi
