@@ -1,44 +1,44 @@
-![Shadowsocks](https://github.com/teddysun/shadowsocks_install/raw/master/shadowsocks.png)
+![Shadowsocks](https://github.com/wjk199511140034/ss-onekeyinstall/blob/master/shadowsocks.png)
 # Auto install Shadowsocks Server
 
 shadowsocks.sh
 ===============
 - Auto Install Shadowsocks(Python) Server for CentOS/Debian/Ubuntu
-- https://teddysun.com/342.html
+- https://raw.githubusercontent.com/wjk199511140034/ss-onekeyinstall/master/usage/Shadowsocks%20Python版一键安装脚本.txt
 
 shadowsocks-libev.sh
 ===============
 - Auto Install Shadowsocks(libev) Server for CentOS
-- https://teddysun.com/357.html
+- https://raw.githubusercontent.com/wjk199511140034/ss-onekeyinstall/master/usage/CentOS下shadowsocks-libev一键安装脚本.txt
 
 shadowsocks-libev-debian.sh
 ===============
 - Auto Install Shadowsocks(libev) Server for Debian/Ubuntu
-- https://teddysun.com/358.html
+- https://raw.githubusercontent.com/wjk199511140034/ss-onekeyinstall/master/usage/Debian下shadowsocks-libev一键安装脚本.txt
 
 shadowsocks-go.sh
 ===============
 - Auto Install Shadowsocks(Go) Server for CentOS/Debian/Ubuntu
-- https://teddysun.com/392.html
+- https://raw.githubusercontent.com/wjk199511140034/ss-onekeyinstall/master/usage/Shadowsocks-go一键安装脚本.txt
 
 shadowsocks-crond.sh
 ===============
 - Check Shadowsocks(All version) Server is running or not, and start it if not running
-- https://teddysun.com/525.html
+- https://raw.githubusercontent.com/wjk199511140034/ss-onekeyinstall/master/usage/使用定时任务cron监视Shadowsocks进程.txt
 
 shadowsocksR.sh
 ===============
 - Auto Install ShadowsocksR Server for CentOS/Debian/Ubuntu
-- https://shadowsocks.be/9.html
+- https://raw.githubusercontent.com/wjk199511140034/ss-onekeyinstall/master/usage/ShadowsocksR一键安装脚本.txt
 
 shadowsocks-all.sh
 ==================
 - Auto Install Shadowsocks Server (all version) for CentOS/Debian/Ubuntu
-- https://teddysun.com/486.html
+- https://raw.githubusercontent.com/wjk199511140034/ss-onekeyinstall/master/usage/Shadowsocks%20一键安装脚本（四合一）.txt
 
 haproxy.sh
 ===============
 - Auto Install haproxy for Shadowsocks Server
-- https://shadowsocks.be/10.html
+- https://raw.githubusercontent.com/wjk199511140034/ss-onekeyinstall/master/usage/使用haproxy中转Shadowsocks流量一键安装脚本.txt
 
 Copyright (C) 2014-2019 Teddysun
