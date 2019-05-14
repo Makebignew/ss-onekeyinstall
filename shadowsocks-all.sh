@@ -58,9 +58,9 @@ shadowsocks_r_centos="https://raw.githubusercontent.com/wjk199511140034/ss-oneke
 shadowsocks_r_debian="https://raw.githubusercontent.com/wjk199511140034/ss-onekeyinstall/master/shadowsocksR-debian"
 
 shadowsocks_go_file_64="shadowsocks-server-linux64-1.2.2"
-shadowsocks_go_url_64="https://dl.lamp.sh/shadowsocks/shadowsocks-server-linux64-1.2.2.gz"
+shadowsocks_go_url_64="https://raw.githubusercontent.com/wjk199511140034/ss-onekeyinstall/master/ss-go/shadowsocks-server-linux64-1.2.2.gz"
 shadowsocks_go_file_32="shadowsocks-server-linux32-1.2.2"
-shadowsocks_go_url_32="https://dl.lamp.sh/shadowsocks/shadowsocks-server-linux32-1.2.2.gz"
+shadowsocks_go_url_32="https://raw.githubusercontent.com/wjk199511140034/ss-onekeyinstall/master/ss-go/shadowsocks-server-linux32-1.2.2.gz"
 shadowsocks_go_init="/etc/init.d/shadowsocks-go"
 shadowsocks_go_config="/etc/shadowsocks-go/config.json"
 shadowsocks_go_centos="https://raw.githubusercontent.com/wjk199511140034/ss-onekeyinstall/master/shadowsocks-go"
